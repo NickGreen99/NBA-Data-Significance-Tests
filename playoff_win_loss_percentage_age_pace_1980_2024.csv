@@ -1,0 +1,693 @@
+Season,Team,Age,Win_loss_percentage,Pace
+1980-81,Boston Celtics,27.2,.706,95.8
+1980-81,Phoenix Suns,25.7,.429,91.8
+1980-81,Milwaukee Bucks,26.7,.429,96.5
+1980-81,Philadelphia 76ers,27.2,.563,98.4
+1980-81,Houston Rockets,27.1,.571,93.4
+1980-81,Los Angeles Lakers,26.6,.333,97.5
+1980-81,Portland Trail Blazers,25.8,.333,95.9
+1980-81,San Antonio Spurs,26.3,.429,97.0
+1980-81,Kansas City Kings,26.5,.467,91.5
+1980-81,Chicago Bulls,26.8,.333,96.5
+1980-81,New York Knicks,25.6,.000,94.8
+1980-81,Indiana Pacers,26.0,.000,103.4
+1981-82,Los Angeles Lakers,27.0,.857,103.1
+1981-82,Boston Celtics,27.2,.583,97.9
+1981-82,Seattle Supersonics,27.3,.375,94.7
+1981-82,Philadelphia 76ers,27.7,.571,98.0
+1981-82,Denver Nuggets,27.0,.333,106.0
+1981-82,Washington Bullets,25.6,.429,95.6
+1981-82,Milwaukee Bucks,27.3,.333,93.8
+1981-82,San Antonio Spurs,26.1,.444,101.9
+1981-82,Houston Rockets,28.7,.333,86.0
+1981-82,Phoenix Suns,26.5,.286,103.1
+1981-82,New Jersey Nets,24.4,.000,96.3
+1981-82,Atlanta Hawks,26.1,.000,88.4
+1982-83,Philadelphia 76ers,27.4,.923,97.2
+1982-83,San Antonio Spurs,27.6,.545,108.1
+1982-83,Milwaukee Bucks,28.0,.556,94.9
+1982-83,Los Angeles Lakers,27.7,.533,100.8
+1982-83,New York Knicks,27.0,.333,97.1
+1982-83,Portland Trail Blazers,25.5,.429,97.6
+1982-83,Phoenix Suns,26.6,.333,101.7
+1982-83,Boston Celtics,27.4,.286,96.3
+1982-83,Denver Nuggets,26.7,.375,109.7
+1982-83,Atlanta Hawks,26.5,.333,96.6
+1982-83,New Jersey Nets,24.9,.000,97.6
+1982-83,Seattle Supersonics,27.8,.000,96.6
+1983-84,Los Angeles Lakers,27.1,.667,100.1
+1983-84,Boston Celtics,28.0,.652,98.0
+1983-84,Milwaukee Bucks,28.0,.500,96.7
+1983-84,Detroit Pistons,25.4,.400,100.6
+1983-84,New Jersey Nets,25.7,.455,98.6
+1983-84,Phoenix Suns,27.5,.529,97.8
+1983-84,Seattle Supersonics,27.4,.400,90.5
+1983-84,Denver Nuggets,27.2,.400,106.1
+1983-84,Utah Jazz,26.8,.455,100.3
+1983-84,Portland Trail Blazers,25.8,.400,97.5
+1983-84,Philadelphia 76ers,28.3,.400,101.3
+1983-84,Washington Bullets,26.6,.250,87.9
+1983-84,New York Knicks,27.0,.500,99.0
+1983-84,Dallas Mavericks,24.6,.400,93.8
+1983-84,Kansas City Kings,26.0,.000,99.6
+1983-84,Atlanta Hawks,26.4,.400,93.3
+1984-85,Los Angeles Lakers,27.4,.789,108.0
+1984-85,Boston Celtics,28.7,.619,101.6
+1984-85,Philadelphia 76ers,28.3,.615,99.3
+1984-85,Denver Nuggets,28.2,.533,108.6
+1984-85,Cleveland Cavaliers,26.9,.250,101.6
+1984-85,Houston Rockets,25.5,.400,103.8
+1984-85,Detroit Pistons,26.9,.556,103.2
+1984-85,Milwaukee Bucks,25.4,.375,99.5
+1984-85,Dallas Mavericks,24.8,.250,96.8
+1984-85,Utah Jazz,27.0,.400,106.1
+1984-85,Washington Bullets,26.5,.250,96.9
+1984-85,Portland Trail Blazers,25.3,.444,103.0
+1984-85,Chicago Bulls,25.0,.250,97.3
+1984-85,New Jersey Nets,26.4,.000,105.4
+1984-85,San Antonio Spurs,29.0,.400,104.7
+1984-85,Phoenix Suns,26.2,.000,109.4
+1985-86,Boston Celtics,29.3,.833,98.4
+1985-86,Los Angeles Lakers,28.3,.571,99.9
+1985-86,Houston Rockets,25.4,.650,99.0
+1985-86,Philadelphia 76ers,27.9,.500,98.3
+1985-86,Dallas Mavericks,25.8,.500,96.9
+1985-86,Milwaukee Bucks,26.0,.500,100.0
+1985-86,Atlanta Hawks,25.1,.444,99.5
+1985-86,Denver Nuggets,27.9,.500,102.7
+1985-86,Utah Jazz,25.9,.250,93.5
+1985-86,Portland Trail Blazers,27.0,.250,103.5
+1985-86,Detroit Pistons,26.3,.250,101.0
+1985-86,Washington Bullets,27.6,.400,96.0
+1985-86,New Jersey Nets,27.3,.000,98.7
+1985-86,Chicago Bulls,25.4,.000,97.8
+1985-86,Sacramento Kings,26.9,.000,94.1
+1985-86,San Antonio Spurs,27.9,.000,101.1
+1986-87,Los Angeles Lakers,28.3,.833,100.5
+1986-87,Detroit Pistons,26.9,.667,95.9
+1986-87,Houston Rockets,26.9,.500,96.4
+1986-87,Atlanta Hawks,26.0,.444,91.5
+1986-87,Milwaukee Bucks,28.5,.500,99.1
+1986-87,Boston Celtics,29.5,.565,97.2
+1986-87,Utah Jazz,26.4,.400,95.9
+1986-87,Philadelphia 76ers,27.3,.400,98.6
+1986-87,Seattle Supersonics,26.4,.500,97.7
+1986-87,Indiana Pacers,25.8,.250,91.5
+1986-87,Dallas Mavericks,25.8,.250,101.9
+1986-87,Portland Trail Blazers,27.3,.250,98.9
+1986-87,Golden State Warriors,27.3,.400,98.7
+1986-87,Chicago Bulls,25.4,.000,89.6
+1986-87,Washington Bullets,25.9,.000,98.7
+1986-87,Denver Nuggets,27.0,.000,108.6
+1987-88,Detroit Pistons,27.8,.609,91.1
+1987-88,Los Angeles Lakers,29.2,.625,92.5
+1987-88,Atlanta Hawks,27.0,.500,93.9
+1987-88,Utah Jazz,26.7,.545,95.1
+1987-88,Boston Celtics,30.7,.529,92.3
+1987-88,Dallas Mavericks,27.0,.588,94.1
+1987-88,Seattle Supersonics,25.6,.400,99.4
+1987-88,Milwaukee Bucks,28.5,.400,95.5
+1987-88,Cleveland Cavaliers,24.9,.400,92.9
+1987-88,Denver Nuggets,29.0,.455,99.2
+1987-88,Houston Rockets,27.6,.250,95.3
+1987-88,Portland Trail Blazers,27.1,.250,101.2
+1987-88,Chicago Bulls,24.9,.400,92.8
+1987-88,Washington Bullets,27.1,.400,89.9
+1987-88,San Antonio Spurs,26.0,.000,105.6
+1987-88,New York Knicks,25.1,.250,94.4
+1988-89,Detroit Pistons,28.3,.882,88.9
+1988-89,Phoenix Suns,26.0,.583,104.4
+1988-89,Los Angeles Lakers,29.8,.733,95.4
+1988-89,Houston Rockets,26.8,.250,98.2
+1988-89,Chicago Bulls,26.5,.529,91.1
+1988-89,Atlanta Hawks,28.3,.400,86.8
+1988-89,Cleveland Cavaliers,26.5,.400,90.4
+1988-89,New York Knicks,25.5,.556,94.5
+1988-89,Philadelphia 76ers,28.2,.000,95.2
+1988-89,Seattle Supersonics,25.9,.375,95.2
+1988-89,Milwaukee Bucks,28.7,.333,86.0
+1988-89,Golden State Warriors,26.1,.500,102.7
+1988-89,Denver Nuggets,30.6,.000,107.6
+1988-89,Utah Jazz,27.5,.000,99.6
+1988-89,Boston Celtics,27.7,.000,92.8
+1988-89,Portland Trail Blazers,26.9,.000,97.5
+1989-90,Detroit Pistons,29.3,.750,92.2
+1989-90,San Antonio Spurs,25.3,.600,102.2
+1989-90,Chicago Bulls,26.3,.625,92.7
+1989-90,Phoenix Suns,27.1,.563,97.9
+1989-90,Los Angeles Lakers,28.9,.444,94.1
+1989-90,Cleveland Cavaliers,26.4,.400,93.8
+1989-90,Boston Celtics,31.0,.400,99.9
+1989-90,Utah Jazz,27.8,.400,94.8
+1989-90,Portland Trail Blazers,26.7,.571,99.3
+1989-90,Philadelphia 76ers,27.3,.400,93.2
+1989-90,New York Knicks,28.0,.400,95.2
+1989-90,Houston Rockets,27.3,.250,92.6
+1989-90,Dallas Mavericks,28.3,.000,97.2
+1989-90,Milwaukee Bucks,28.4,.250,94.1
+1989-90,Denver Nuggets,29.6,.000,108.8
+1989-90,Indiana Pacers,26.2,.000,88.6
+1990-91,Chicago Bulls,27.2,.882,88.1
+1990-91,Utah Jazz,28.4,.444,95.6
+1990-91,Portland Trail Blazers,27.8,.563,93.6
+1990-91,Boston Celtics,28.7,.455,95.3
+1990-91,Los Angeles Lakers,28.2,.632,92.0
+1990-91,Indiana Pacers,26.5,.400,101.7
+1990-91,Detroit Pistons,30.4,.467,90.3
+1990-91,Philadelphia 76ers,28.4,.500,89.8
+1990-91,Golden State Warriors,26.3,.444,100.2
+1990-91,Seattle Supersonics,26.5,.400,95.6
+1990-91,San Antonio Spurs,25.8,.250,101.0
+1990-91,Houston Rockets,27.2,.000,90.8
+1990-91,Atlanta Hawks,29.0,.400,91.9
+1990-91,Milwaukee Bucks,29.0,.000,93.9
+1990-91,Phoenix Suns,27.1,.250,96.4
+1990-91,New York Knicks,28.7,.000,91.8
+1991-92,Chicago Bulls,27.8,.682,89.0
+1991-92,Portland Trail Blazers,28.6,.619,94.5
+1991-92,Cleveland Cavaliers,28.5,.529,91.7
+1991-92,Phoenix Suns,26.9,.500,99.6
+1991-92,New York Knicks,27.3,.500,84.6
+1991-92,Golden State Warriors,25.8,.250,99.8
+1991-92,Utah Jazz,28.9,.563,89.9
+1991-92,Boston Celtics,29.8,.600,91.6
+1991-92,Seattle Supersonics,27.0,.444,93.1
+1991-92,Los Angeles Clippers,27.7,.400,90.6
+1991-92,Indiana Pacers,26.5,.000,93.7
+1991-92,New Jersey Nets,25.6,.250,96.9
+1991-92,Detroit Pistons,30.0,.400,85.7
+1991-92,San Antonio Spurs,28.4,.000,93.9
+1991-92,Los Angeles Lakers,27.4,.250,91.4
+1991-92,Miami Heat,24.5,.000,92.8
+1992-93,Chicago Bulls,28.2,.789,88.5
+1992-93,Houston Rockets,27.4,.500,91.1
+1992-93,Seattle Supersonics,28.0,.526,89.7
+1992-93,Phoenix Suns,27.9,.542,92.8
+1992-93,Indiana Pacers,27.1,.250,90.3
+1992-93,San Antonio Spurs,27.4,.500,93.1
+1992-93,Charlotte Hornets,25.7,.444,91.9
+1992-93,Portland Trail Blazers,28.5,.250,91.2
+1992-93,New York Knicks,28.4,.600,90.4
+1992-93,Cleveland Cavaliers,29.1,.333,89.1
+1992-93,New Jersey Nets,27.6,.400,91.9
+1992-93,Los Angeles Lakers,28.0,.400,92.3
+1992-93,Utah Jazz,29.7,.400,85.2
+1992-93,Los Angeles Clippers,26.8,.400,94.3
+1992-93,Boston Celtics,28.9,.250,89.0
+1992-93,Atlanta Hawks,27.3,.000,91.1
+1993-94,Houston Rockets,28.1,.652,89.9
+1993-94,Indiana Pacers,27.3,.625,87.8
+1993-94,Chicago Bulls,27.9,.600,85.2
+1993-94,Utah Jazz,29.5,.500,86.3
+1993-94,New York Knicks,28.9,.560,87.4
+1993-94,Seattle Supersonics,28.0,.400,88.5
+1993-94,Atlanta Hawks,28.1,.455,88.2
+1993-94,Phoenix Suns,28.8,.600,95.3
+1993-94,Denver Nuggets,24.8,.500,87.5
+1993-94,Portland Trail Blazers,28.9,.250,93.9
+1993-94,Orlando Magic,25.2,.000,88.1
+1993-94,Golden State Warriors,25.0,.000,98.2
+1993-94,Miami Heat,26.3,.400,89.8
+1993-94,Cleveland Cavaliers,27.4,.000,83.7
+1993-94,New Jersey Nets,26.8,.250,89.1
+1993-94,San Antonio Spurs,29.0,.250,87.3
+1994-95,San Antonio Spurs,29.3,.600,89.7
+1994-95,New York Knicks,29.9,.545,86.2
+1994-95,Phoenix Suns,29.7,.600,92.8
+1994-95,Seattle Supersonics,28.5,.250,87.3
+1994-95,Houston Rockets,29.0,.682,92.0
+1994-95,Indiana Pacers,28.4,.588,87.1
+1994-95,Orlando Magic,26.3,.524,89.4
+1994-95,Chicago Bulls,28.5,.500,87.5
+1994-95,Charlotte Hornets,28.5,.250,84.7
+1994-95,Utah Jazz,30.2,.400,89.7
+1994-95,Los Angeles Lakers,25.1,.500,88.2
+1994-95,Cleveland Cavaliers,28.6,.250,85.1
+1994-95,Atlanta Hawks,28.3,.000,87.9
+1994-95,Boston Celtics,28.0,.250,87.1
+1994-95,Portland Trail Blazers,29.7,.000,91.3
+1994-95,Denver Nuggets,26.7,.000,90.7
+1995-96,Chicago Bulls,30.5,.833,86.8
+1995-96,Utah Jazz,29.6,.556,85.8
+1995-96,Orlando Magic,27.2,.583,85.8
+1995-96,Seattle Supersonics,29.9,.619,88.2
+1995-96,New York Knicks,30.7,.500,85.4
+1995-96,Indiana Pacers,29.0,.400,83.1
+1995-96,Los Angeles Lakers,27.5,.250,93.4
+1995-96,San Antonio Spurs,29.2,.500,86.8
+1995-96,Atlanta Hawks,27.4,.400,85.0
+1995-96,Houston Rockets,29.6,.375,93.5
+1995-96,Sacramento Kings,26.8,.250,91.4
+1995-96,Portland Trail Blazers,28.9,.400,86.4
+1995-96,Phoenix Suns,29.0,.250,90.5
+1995-96,Cleveland Cavaliers,27.9,.000,80.9
+1995-96,Detroit Pistons,28.1,.000,82.7
+1995-96,Miami Heat,27.2,.000,90.4
+1996-97,Chicago Bulls,30.8,.789,85.5
+1996-97,Seattle Supersonics,30.9,.500,91.2
+1996-97,Utah Jazz,29.7,.650,86.6
+1996-97,Houston Rockets,32.7,.563,88.8
+1996-97,New York Knicks,30.0,.600,87.9
+1996-97,Los Angeles Lakers,26.3,.444,86.5
+1996-97,Miami Heat,27.1,.471,86.2
+1996-97,Detroit Pistons,28.7,.400,82.4
+1996-97,Atlanta Hawks,28.9,.400,84.4
+1996-97,Washington Bullets,25.7,.000,87.9
+1996-97,Portland Trail Blazers,26.7,.250,86.1
+1996-97,Orlando Magic,29.1,.400,84.8
+1996-97,Charlotte Hornets,29.5,.000,87.0
+1996-97,Minnesota Timberwolves,25.9,.000,90.2
+1996-97,Phoenix Suns,28.1,.400,95.0
+1996-97,Los Angeles Clippers,25.0,.000,87.0
+1997-98,Chicago Bulls,32.1,.714,84.1
+1997-98,San Antonio Spurs,29.5,.444,86.3
+1997-98,Indiana Pacers,30.0,.625,85.2
+1997-98,Utah Jazz,30.4,.650,85.6
+1997-98,Atlanta Hawks,29.3,.250,83.6
+1997-98,Los Angeles Lakers,25.9,.538,88.4
+1997-98,Miami Heat,28.0,.400,85.9
+1997-98,New York Knicks,30.2,.400,86.7
+1997-98,Seattle Supersonics,31.6,.400,85.4
+1997-98,Portland Trail Blazers,26.1,.250,91.2
+1997-98,Minnesota Timberwolves,27.6,.400,86.2
+1997-98,Charlotte Hornets,29.5,.444,83.6
+1997-98,Houston Rockets,32.9,.400,88.6
+1997-98,Phoenix Suns,28.0,.250,91.4
+1997-98,New Jersey Nets,27.6,.000,85.5
+1997-98,Cleveland Cavaliers,23.9,.250,82.7
+1998-99,San Antonio Spurs,30.1,.882,85.4
+1998-99,Indiana Pacers,31.2,.692,86.7
+1998-99,New York Knicks,28.6,.600,84.9
+1998-99,Utah Jazz,30.5,.455,86.3
+1998-99,Philadelphia 76ers,25.9,.375,85.9
+1998-99,Portland Trail Blazers,27.5,.538,84.4
+1998-99,Houston Rockets,30.6,.250,90.8
+1998-99,Los Angeles Lakers,27.0,.375,90.9
+1998-99,Atlanta Hawks,30.5,.333,82.0
+1998-99,Detroit Pistons,28.1,.400,79.1
+1998-99,Miami Heat,29.9,.400,80.3
+1998-99,Sacramento Kings,26.2,.400,88.9
+1998-99,Orlando Magic,28.7,.250,87.3
+1998-99,Minnesota Timberwolves,27.5,.250,84.6
+1998-99,Milwaukee Bucks,27.6,.000,88.2
+1998-99,Phoenix Suns,29.0,.000,90.8
+1999-00,Portland Trail Blazers,30.0,.625,85.9
+1999-00,Miami Heat,29.6,.600,84.6
+1999-00,Indiana Pacers,30.9,.565,89.0
+1999-00,Los Angeles Lakers,29.3,.652,90.3
+1999-00,Milwaukee Bucks,27.6,.400,89.3
+1999-00,New York Knicks,29.7,.563,84.0
+1999-00,Seattle Supersonics,27.9,.400,89.2
+1999-00,San Antonio Spurs,31.0,.250,90.8
+1999-00,Philadelphia 76ers,27.6,.500,87.5
+1999-00,Minnesota Timberwolves,26.6,.250,82.5
+1999-00,Charlotte Hornets,29.2,.250,85.0
+1999-00,Phoenix Suns,28.4,.444,90.5
+1999-00,Toronto Raptors,29.8,.000,86.0
+1999-00,Utah Jazz,32.2,.400,87.8
+1999-00,Sacramento Kings,27.2,.400,91.8
+1999-00,Detroit Pistons,28.4,.000,89.8
+2000-01,Los Angeles Lakers,28.3,.938,92.0
+2000-01,Charlotte Hornets,28.1,.600,88.6
+2000-01,Milwaukee Bucks,28.4,.556,88.3
+2000-01,Toronto Raptors,29.6,.500,86.9
+2000-01,Sacramento Kings,26.8,.375,96.2
+2000-01,Philadelphia 76ers,28.3,.522,87.0
+2000-01,San Antonio Spurs,30.2,.538,89.6
+2000-01,New York Knicks,29.9,.400,87.8
+2000-01,Dallas Mavericks,26.1,.400,88.5
+2000-01,Utah Jazz,32.6,.400,86.3
+2000-01,Orlando Magic,25.9,.250,92.8
+2000-01,Indiana Pacers,27.8,.250,87.0
+2000-01,Minnesota Timberwolves,27.8,.250,87.7
+2000-01,Phoenix Suns,28.7,.250,96.0
+2000-01,Portland Trail Blazers,31.3,.000,91.4
+2000-01,Miami Heat,29.8,.000,89.6
+2001-02,Los Angeles Lakers,28.1,.789,91.5
+2001-02,San Antonio Spurs,28.3,.400,85.8
+2001-02,Boston Celtics,27.1,.563,89.9
+2001-02,Sacramento Kings,27.2,.625,93.9
+2001-02,Dallas Mavericks,26.5,.500,96.4
+2001-02,Indiana Pacers,26.1,.400,90.6
+2001-02,Charlotte Hornets,28.7,.444,90.4
+2001-02,New Jersey Nets,26.4,.550,92.3
+2001-02,Detroit Pistons,29.3,.400,86.4
+2001-02,Utah Jazz,30.0,.250,89.2
+2001-02,Toronto Raptors,29.9,.400,85.7
+2001-02,Orlando Magic,28.5,.250,88.1
+2001-02,Portland Trail Blazers,29.2,.000,92.0
+2001-02,Philadelphia 76ers,29.8,.400,87.2
+2001-02,Minnesota Timberwolves,26.5,.000,96.6
+2001-02,Seattle Supersonics,27.0,.400,84.7
+2002-03,San Antonio Spurs,27.1,.667,91.0
+2002-03,New Jersey Nets,27.3,.700,89.9
+2002-03,Sacramento Kings,28.3,.583,94.7
+2002-03,Portland Trail Blazers,28.1,.429,87.9
+2002-03,Detroit Pistons,27.9,.471,86.5
+2002-03,Philadelphia 76ers,29.0,.500,85.6
+2002-03,Los Angeles Lakers,27.9,.500,92.8
+2002-03,Dallas Mavericks,27.8,.500,93.2
+2002-03,Boston Celtics,27.0,.400,90.4
+2002-03,New Orleans Hornets,28.8,.333,87.2
+2002-03,Milwaukee Bucks,30.3,.333,90.9
+2002-03,Phoenix Suns,25.4,.333,91.4
+2002-03,Indiana Pacers,26.2,.333,88.8
+2002-03,Minnesota Timberwolves,28.0,.333,94.8
+2002-03,Orlando Magic,26.5,.429,88.0
+2002-03,Utah Jazz,31.2,.200,89.2
+2003-04,Detroit Pistons,27.3,.696,86.1
+2003-04,Indiana Pacers,26.7,.625,86.5
+2003-04,San Antonio Spurs,26.8,.600,87.2
+2003-04,New Jersey Nets,27.7,.636,88.9
+2003-04,Dallas Mavericks,26.7,.200,96.3
+2003-04,Los Angeles Lakers,30.2,.591,86.6
+2003-04,Miami Heat,25.9,.462,86.4
+2003-04,Sacramento Kings,29.0,.583,93.4
+2003-04,Minnesota Timberwolves,30.0,.556,89.8
+2003-04,New Orleans Hornets,30.1,.429,87.1
+2003-04,Denver Nuggets,26.5,.200,91.4
+2003-04,Houston Rockets,28.0,.200,87.7
+2003-04,New York Knicks,28.5,.000,92.9
+2003-04,Milwaukee Bucks,27.5,.200,89.9
+2003-04,Memphis Grizzlies,26.0,.000,86.0
+2003-04,Boston Celtics,26.2,.000,91.7
+2004-05,Detroit Pistons,28.1,.600,85.3
+2004-05,San Antonio Spurs,28.6,.696,87.3
+2004-05,Miami Heat,28.2,.733,90.2
+2004-05,Phoenix Suns,26.2,.600,94.1
+2004-05,Boston Celtics,26.7,.429,85.9
+2004-05,Dallas Mavericks,27.7,.462,92.1
+2004-05,Chicago Bulls,26.4,.333,96.4
+2004-05,Seattle Supersonics,26.3,.545,88.7
+2004-05,Washington Wizards,25.5,.400,95.1
+2004-05,Houston Rockets,29.8,.429,87.3
+2004-05,Indiana Pacers,29.2,.462,85.3
+2004-05,Sacramento Kings,27.6,.200,90.4
+2004-05,Philadelphia 76ers,26.5,.200,87.9
+2004-05,Denver Nuggets,26.5,.200,90.7
+2004-05,Memphis Grizzlies,26.2,.000,91.7
+2004-05,New Jersey Nets,27.5,.000,91.4
+2005-06,Dallas Mavericks,27.2,.609,88.9
+2005-06,Miami Heat,29.4,.696,90.3
+2005-06,Los Angeles Clippers,26.8,.583,93.1
+2005-06,Detroit Pistons,29.1,.556,84.9
+2005-06,San Antonio Spurs,30.0,.538,88.3
+2005-06,Phoenix Suns,26.8,.500,92.3
+2005-06,Washington Wizards,26.4,.333,89.8
+2005-06,New Jersey Nets,28.7,.455,88.4
+2005-06,Chicago Bulls,23.9,.333,94.4
+2005-06,Cleveland Cavaliers,26.8,.538,85.8
+2005-06,Indiana Pacers,27.5,.333,86.5
+2005-06,Los Angeles Lakers,25.2,.429,91.7
+2005-06,Denver Nuggets,27.6,.200,92.0
+2005-06,Sacramento Kings,27.0,.333,87.9
+2005-06,Milwaukee Bucks,25.5,.200,88.5
+2005-06,Memphis Grizzlies,28.2,.000,82.9
+2006-07,Phoenix Suns,27.9,.545,94.1
+2006-07,San Antonio Spurs,30.8,.800,88.9
+2006-07,Detroit Pistons,29.5,.625,85.8
+2006-07,Cleveland Cavaliers,25.8,.600,85.7
+2006-07,New Jersey Nets,28.3,.500,88.7
+2006-07,Golden State Warriors,25.3,.455,95.3
+2006-07,Chicago Bulls,26.1,.600,89.4
+2006-07,Utah Jazz,26.1,.529,91.0
+2006-07,Houston Rockets,27.7,.429,87.6
+2006-07,Toronto Raptors,25.5,.333,89.9
+2006-07,Denver Nuggets,26.8,.200,87.6
+2006-07,Dallas Mavericks,27.6,.333,93.2
+2006-07,Washington Wizards,27.8,.000,88.4
+2006-07,Orlando Magic,25.7,.000,85.5
+2006-07,Los Angeles Lakers,25.6,.200,94.4
+2006-07,Miami Heat,29.9,.000,91.6
+2007-08,Boston Celtics,28.9,.615,85.9
+2007-08,New Orleans Hornets,26.7,.583,86.6
+2007-08,Detroit Pistons,28.8,.588,84.7
+2007-08,Cleveland Cavaliers,27.1,.538,85.9
+2007-08,Los Angeles Lakers,27.4,.667,92.7
+2007-08,Orlando Magic,26.4,.500,87.5
+2007-08,Utah Jazz,25.4,.500,89.1
+2007-08,San Antonio Spurs,31.6,.529,89.5
+2007-08,Phoenix Suns,29.4,.200,92.6
+2007-08,Houston Rockets,29.0,.333,84.8
+2007-08,Washington Wizards,27.7,.333,87.9
+2007-08,Toronto Raptors,26.2,.200,90.3
+2007-08,Philadelphia 76ers,25.0,.333,86.0
+2007-08,Dallas Mavericks,29.6,.200,87.0
+2007-08,Denver Nuggets,27.9,.000,97.4
+2007-08,Atlanta Hawks,23.8,.429,85.8
+2008-09,Cleveland Cavaliers,27.2,.714,86.1
+2008-09,Denver Nuggets,27.8,.625,92.4
+2008-09,Los Angeles Lakers,27.3,.696,91.1
+2008-09,Orlando Magic,27.3,.542,89.2
+2008-09,Miami Heat,25.6,.429,82.6
+2008-09,Boston Celtics,27.4,.500,91.4
+2008-09,Dallas Mavericks,29.1,.500,89.9
+2008-09,Houston Rockets,26.9,.538,87.4
+2008-09,Chicago Bulls,25.5,.429,92.6
+2008-09,Portland Trail Blazers,24.5,.333,83.9
+2008-09,San Antonio Spurs,30.6,.200,85.7
+2008-09,Atlanta Hawks,26.2,.364,82.4
+2008-09,Philadelphia 76ers,26.6,.333,88.0
+2008-09,Utah Jazz,25.6,.200,93.4
+2008-09,Detroit Pistons,28.3,.000,83.3
+2008-09,New Orleans Hornets,28.3,.200,89.8
+2009-10,Orlando Magic,28.0,.714,86.5
+2009-10,Phoenix Suns,28.9,.625,90.9
+2009-10,Los Angeles Lakers,29.0,.696,89.6
+2009-10,Boston Celtics,29.4,.625,89.2
+2009-10,Cleveland Cavaliers,29.2,.545,92.6
+2009-10,Dallas Mavericks,31.2,.333,88.4
+2009-10,Denver Nuggets,27.5,.333,96.0
+2009-10,Oklahoma City Thunder,22.9,.333,90.6
+2009-10,Utah Jazz,24.8,.400,93.9
+2009-10,San Antonio Spurs,29.1,.400,90.9
+2009-10,Milwaukee Bucks,27.8,.429,85.7
+2009-10,Atlanta Hawks,26.3,.364,85.8
+2009-10,Miami Heat,27.0,.200,91.1
+2009-10,Chicago Bulls,25.6,.200,92.4
+2009-10,Charlotte Bobcats,27.6,.000,85.4
+2009-10,Portland Trail Blazers,26.6,.333,87.3
+2010-11,Dallas Mavericks,31.6,.762,86.6
+2010-11,Chicago Bulls,26.0,.563,86.9
+2010-11,Miami Heat,28.0,.667,86.3
+2010-11,Orlando Magic,27.2,.333,86.6
+2010-11,Oklahoma City Thunder,23.8,.529,90.8
+2010-11,Boston Celtics,29.9,.556,89.1
+2010-11,Memphis Grizzlies,26.2,.538,90.0
+2010-11,Los Angeles Lakers,30.1,.400,86.5
+2010-11,San Antonio Spurs,29.7,.333,90.8
+2010-11,Atlanta Hawks,26.7,.500,85.9
+2010-11,Denver Nuggets,26.4,.200,94.2
+2010-11,Portland Trail Blazers,27.6,.333,83.0
+2010-11,Indiana Pacers,25.4,.200,90.0
+2010-11,New Orleans Hornets,26.0,.333,85.3
+2010-11,Philadelphia 76ers,24.6,.200,86.0
+2010-11,New York Knicks,26.7,.000,91.7
+2011-12,Miami Heat,28.8,.696,88.0
+2011-12,San Antonio Spurs,28.9,.714,92.4
+2011-12,Oklahoma City Thunder,25.7,.650,90.6
+2011-12,Indiana Pacers,26.4,.545,88.0
+2011-12,Boston Celtics,30.1,.550,87.8
+2011-12,Memphis Grizzlies,26.1,.429,87.7
+2011-12,Denver Nuggets,26.0,.429,90.3
+2011-12,Philadelphia 76ers,24.7,.538,88.5
+2011-12,Chicago Bulls,27.8,.333,88.1
+2011-12,Los Angeles Lakers,28.5,.417,89.2
+2011-12,Los Angeles Clippers,26.8,.364,88.9
+2011-12,Atlanta Hawks,28.1,.333,87.9
+2011-12,Dallas Mavericks,32.6,.000,90.6
+2011-12,Orlando Magic,27.8,.200,86.6
+2011-12,New York Knicks,27.9,.200,86.9
+2011-12,Utah Jazz,25.0,.000,91.9
+2012-13,San Antonio Spurs,28.7,.714,89.6
+2012-13,Miami Heat,30.1,.696,87.3
+2012-13,New York Knicks,29.6,.500,86.6
+2012-13,Brooklyn Nets,28.5,.429,88.3
+2012-13,Oklahoma City Thunder,26.9,.455,92.8
+2012-13,Memphis Grizzlies,27.9,.533,88.4
+2012-13,Golden State Warriors,24.6,.500,94.0
+2012-13,Indiana Pacers,25.6,.579,87.3
+2012-13,Denver Nuggets,26.4,.333,97.2
+2012-13,Atlanta Hawks,27.3,.333,91.2
+2012-13,Boston Celtics,29.7,.333,87.1
+2012-13,Houston Rockets,25.4,.333,95.0
+2012-13,Los Angeles Clippers,29.1,.333,88.0
+2012-13,Chicago Bulls,27.5,.417,87.4
+2012-13,Milwaukee Bucks,26.1,.000,90.7
+2012-13,Los Angeles Lakers,29.2,.000,92.1
+2013-14,San Antonio Spurs,29.6,.696,92.7
+2013-14,Los Angeles Clippers,28.2,.462,96.0
+2013-14,Miami Heat,31.1,.650,86.2
+2013-14,Washington Wizards,26.8,.545,87.8
+2013-14,Houston Rockets,25.2,.333,92.7
+2013-14,Atlanta Hawks,27.9,.429,90.7
+2013-14,Indiana Pacers,27.1,.526,88.3
+2013-14,Oklahoma City Thunder,26.6,.526,92.3
+2013-14,Brooklyn Nets,30.7,.417,86.4
+2013-14,Toronto Raptors,25.2,.429,88.8
+2013-14,Dallas Mavericks,31.3,.429,92.0
+2013-14,Golden State Warriors,26.2,.429,96.6
+2013-14,Chicago Bulls,28.6,.200,85.6
+2013-14,Memphis Grizzlies,29.7,.429,88.8
+2013-14,Portland Trail Blazers,25.8,.455,94.6
+2013-14,Charlotte Hornets,25.5,.000,90.6
+2014-15,Golden State Warriors,26.4,.762,93.7
+2014-15,Cleveland Cavaliers,26.6,.700,90.7
+2014-15,Washington Wizards,27.5,.600,94.6
+2014-15,Chicago Bulls,28.7,.500,90.4
+2014-15,Los Angeles Clippers,28.8,.500,98.7
+2014-15,San Antonio Spurs,30.3,.429,94.5
+2014-15,Atlanta Hawks,27.7,.500,93.5
+2014-15,Memphis Grizzlies,30.3,.545,91.9
+2014-15,Houston Rockets,28.8,.529,101.5
+2014-15,Dallas Mavericks,30.4,.200,101.9
+2014-15,Brooklyn Nets,28.6,.333,94.0
+2014-15,Portland Trail Blazers,25.9,.200,92.0
+2014-15,New Orleans Pelicans,25.1,.000,92.0
+2014-15,Boston Celtics,24.6,.000,93.3
+2014-15,Milwaukee Bucks,24.8,.333,93.1
+2014-15,Toronto Raptors,25.9,.000,94.5
+2015-16,San Antonio Spurs,30.7,.600,91.9
+2015-16,Cleveland Cavaliers,28.0,.762,90.7
+2015-16,Oklahoma City Thunder,25.6,.611,95.2
+2015-16,Golden State Warriors,27.4,.625,97.0
+2015-16,Miami Heat,28.7,.500,90.2
+2015-16,Indiana Pacers,26.4,.429,88.8
+2015-16,Los Angeles Clippers,29.3,.333,93.7
+2015-16,Atlanta Hawks,28.3,.400,95.7
+2015-16,Portland Trail Blazers,24.8,.455,96.2
+2015-16,Toronto Raptors,26.1,.500,89.4
+2015-16,Boston Celtics,25.0,.333,98.3
+2015-16,Charlotte Hornets,26.9,.429,91.0
+2015-16,Detroit Pistons,24.1,.000,86.8
+2015-16,Houston Rockets,28.5,.200,98.4
+2015-16,Dallas Mavericks,30.4,.200,91.8
+2015-16,Memphis Grizzlies,30.8,.000,89.1
+2016-17,Golden State Warriors,28.3,.941,100.3
+2016-17,Cleveland Cavaliers,29.3,.722,96.6
+2016-17,Houston Rockets,28.1,.545,96.4
+2016-17,San Antonio Spurs,29.5,.500,93.2
+2016-17,Washington Wizards,26.1,.538,96.7
+2016-17,Milwaukee Bucks,25.0,.333,90.5
+2016-17,Atlanta Hawks,27.2,.333,98.4
+2016-17,Los Angeles Clippers,30.9,.429,89.8
+2016-17,Boston Celtics,25.9,.500,93.9
+2016-17,Indiana Pacers,26.4,.000,94.8
+2016-17,Utah Jazz,27.8,.364,92.1
+2016-17,Toronto Raptors,26.9,.400,93.1
+2016-17,Chicago Bulls,26.6,.333,92.1
+2016-17,Oklahoma City Thunder,25.3,.200,98.6
+2016-17,Memphis Grizzlies,29.7,.333,85.8
+2016-17,Portland Trail Blazers,24.8,.000,102.3
+2017-18,Golden State Warriors,28.4,.762,96.5
+2017-18,Indiana Pacers,26.2,.429,90.7
+2017-18,Philadelphia 76ers,26.5,.500,97.5
+2017-18,Houston Rockets,29.8,.647,95.7
+2017-18,Boston Celtics,24.8,.579,93.1
+2017-18,Milwaukee Bucks,25.3,.429,92.3
+2017-18,New Orleans Pelicans,26.8,.556,102.7
+2017-18,Cleveland Cavaliers,30.3,.545,91.6
+2017-18,Washington Wizards,27.0,.333,97.2
+2017-18,Utah Jazz,25.6,.455,97.8
+2017-18,Oklahoma City Thunder,27.9,.333,97.8
+2017-18,Toronto Raptors,26.2,.400,94.8
+2017-18,Portland Trail Blazers,25.6,.000,98.7
+2017-18,Minnesota Timberwolves,27.6,.200,95.0
+2017-18,San Antonio Spurs,30.2,.200,93.3
+2017-18,Miami Heat,27.5,.200,100.4
+2018-19,Milwaukee Bucks,27.6,.667,99.5
+2018-19,Toronto Raptors,28.4,.667,95.4
+2018-19,Golden State Warriors,29.1,.636,97.3
+2018-19,Houston Rockets,29.5,.545,96.2
+2018-19,Philadelphia 76ers,27.2,.583,98.2
+2018-19,Denver Nuggets,25.4,.500,92.2
+2018-19,Boston Celtics,26.2,.556,99.1
+2018-19,Portland Trail Blazers,26.6,.500,95.7
+2018-19,San Antonio Spurs,28.3,.429,91.4
+2018-19,Oklahoma City Thunder,26.2,.200,99.6
+2018-19,Indiana Pacers,27.7,.000,94.4
+2018-19,Utah Jazz,27.0,.200,98.0
+2018-19,Los Angeles Clippers,26.7,.333,102.1
+2018-19,Brooklyn Nets,25.3,.200,104.0
+2018-19,Orlando Magic,25.9,.200,95.5
+2018-19,Detroit Pistons,26.5,.000,100.5
+2019-20,Los Angeles Lakers,29.3,.762,97.3
+2019-20,Boston Celtics,25.0,.588,96.4
+2019-20,Los Angeles Clippers,27.9,.538,98.0
+2019-20,Toronto Raptors,27.1,.636,99.1
+2019-20,Utah Jazz,26.8,.429,91.5
+2019-20,Miami Heat,27.1,.667,95.9
+2019-20,Milwaukee Bucks,29.8,.500,100.3
+2019-20,Houston Rockets,30.2,.417,98.6
+2019-20,Denver Nuggets,25.2,.474,94.1
+2019-20,Oklahoma City Thunder,25.7,.429,100.1
+2019-20,Orlando Magic,27.0,.200,104.4
+2019-20,Dallas Mavericks,26.2,.333,102.1
+2019-20,Portland Trail Blazers,26.6,.200,101.9
+2019-20,Indiana Pacers,26.2,.000,96.7
+2019-20,Philadelphia 76ers,26.4,.000,95.2
+2019-20,Brooklyn Nets,25.4,.000,103.5
+2020-21,Philadelphia 76ers,27.3,.583,100.2
+2020-21,Brooklyn Nets,28.7,.583,96.1
+2020-21,Milwaukee Bucks,29.2,.696,96.9
+2020-21,Phoenix Suns,26.6,.636,95.1
+2020-21,Los Angeles Clippers,29.3,.526,92.8
+2020-21,Utah Jazz,28.6,.545,96.3
+2020-21,Portland Trail Blazers,28.5,.333,95.0
+2020-21,Atlanta Hawks,25.6,.556,96.8
+2020-21,Dallas Mavericks,26.2,.429,91.8
+2020-21,Denver Nuggets,26.3,.400,96.3
+2020-21,Los Angeles Lakers,29.1,.333,93.8
+2020-21,New York Knicks,27.3,.200,93.7
+2020-21,Memphis Grizzlies,24.0,.200,99.5
+2020-21,Boston Celtics,25.0,.200,95.8
+2020-21,Washington Wizards,27.4,.200,102.2
+2020-21,Miami Heat,28.8,.000,98.9
+2021-22,Golden State Warriors,28.2,.727,97.1
+2021-22,Miami Heat,28.3,.611,94.2
+2021-22,Boston Celtics,26.3,.583,95.3
+2021-22,Memphis Grizzlies,23.9,.500,102.1
+2021-22,Milwaukee Bucks,29.5,.583,98.5
+2021-22,Dallas Mavericks,27.1,.500,92.6
+2021-22,Philadelphia 76ers,27.4,.500,92.2
+2021-22,Phoenix Suns,27.8,.538,93.1
+2021-22,New Orleans Pelicans,25.5,.333,93.4
+2021-22,Brooklyn Nets,29.5,.000,93.8
+2021-22,Minnesota Timberwolves,24.8,.333,102.6
+2021-22,Utah Jazz,29.1,.333,91.0
+2021-22,Denver Nuggets,28.1,.200,96.9
+2021-22,Toronto Raptors,25.3,.333,91.2
+2021-22,Atlanta Hawks,25.5,.200,95.2
+2021-22,Chicago Bulls,26.4,.200,100.3
+2022-23,Denver Nuggets,26.8,.800,94.4
+2022-23,Boston Celtics,27.7,.550,95.0
+2022-23,Los Angeles Lakers,27.8,.500,98.1
+2022-23,Miami Heat,29.0,.565,94.5
+2022-23,New York Knicks,24.7,.545,91.9
+2022-23,Golden State Warriors,28.6,.462,101.0
+2022-23,Philadelphia 76ers,28.3,.636,91.4
+2022-23,Sacramento Kings,25.3,.429,102.7
+2022-23,Phoenix Suns,29.1,.545,97.6
+2022-23,Milwaukee Bucks,30.8,.200,102.1
+2022-23,Atlanta Hawks,25.2,.333,100.7
+2022-23,Cleveland Cavaliers,25.0,.200,91.1
+2022-23,Los Angeles Clippers,30.2,.200,98.7
+2022-23,Memphis Grizzlies,24.1,.333,99.0
+2022-23,Minnesota Timberwolves,27.4,.200,94.1
+2022-23,Brooklyn Nets,27.3,.000,89.7
+2023-24,Boston Celtics,29.0,.842,91.9
+2023-24,Oklahoma City Thunder,23.0,.600,94.3
+2023-24,Orlando Magic,24.1,.429,94.6
+2023-24,Minnesota Timberwolves,27.0,.563,91.8
+2023-24,Dallas Mavericks,25.8,.591,92.4
+2023-24,Indiana Pacers,25.5,.471,93.7
+2023-24,Philadelphia 76ers,29.6,.333,90.9
+2023-24,Denver Nuggets,27.3,.583,92.4
+2023-24,New York Knicks,26.4,.538,91.9
+2023-24,Los Angeles Lakers,29.3,.200,95.3
+2023-24,Milwaukee Bucks,31.1,.333,93.3
+2023-24,Cleveland Cavaliers,26.2,.417,92.7
+2023-24,Los Angeles Clippers,30.5,.333,90.9
+2023-24,Phoenix Suns,30.3,.000,93.5
+2023-24,New Orleans Pelicans,26.9,.000,94.3
+2023-24,Miami Heat,26.3,.200,90.8
