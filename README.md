@@ -74,7 +74,7 @@ In order to do the hypothesis tests we use the independent t-test (either one-ta
 
 ### Test 1: Playoff success of young teams before the best-of-seven playoff format (1980-2003) compared to after it (2003-2024)
 
-- ![Test 1](test1.png)
+![Test 1](test1.png)
 
 Ho (Null Hypothesis): The playoff success of young teams now is less than or equal to the playoff success of young teams in the past.
 
@@ -84,29 +84,29 @@ Test: One tailed independent t-test
 
 ### Test 2: Playoff success of young teams compared to old teams from 2003-204
 
-- ![Test 2](test2.png)
+![Test 2](test2.png)
 
 Ho (Null Hypothesis): The playoff success of young teams now is greater than or equal to the playoff success of old teams now.
 
 Test: One tailed independent t-test
 * p-value: 0.003 < 0.05
 * We reject the null hypothesis.
-* Which means: The playoff success of young teams now is significantly less than the playoff success of old teams.
+* Which means: The mean playoff success of young teams now is significantly less than the mean playoff success of old teams.
   
 ### Test 3: Playoff pace of young teams before the best-of-seven playoff format (1980-2003) compared to after it (2003-2024)
 
-- ![Test 3](test3.png)
+![Test 3](test3.png)
 
 Ho (Null Hypothesis): The playoff pace of young teams now is greater than or equal to the playoff pace of young teams in the past.
 
 Test: One tailed independent t-test
 * p-value: 3.11e-06 < 0.05
 * We reject the null hypothesis.
-* Which means: The playoff pace  of young teams now is significantly less than the playoff pace of young teams in the past.
+* Which means: The mean playoff pace of young teams now is significantly less than the mean playoff pace of young teams in the past.
   
 ### Test 4: Playoff success of high pace teams compared to low pace teams 
 
-- ![Test 4](test4.png)
+![Test 4](test4.png)
 
 Ho (Null Hypothesis): The playoff success of high pace teams compared to the playoff success of low pace teams is statistically different.
 
